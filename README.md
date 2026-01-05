@@ -7,7 +7,7 @@ The website demonstrate food presentation and basic online ordering concept usin
 ### Website Pages:
 Home, Menu, About, Blog, Contact.
 ### Live Website:
-
+ https://afifazulfqar717.github.io/Group7_OnlineRestaurant/
 ### Run Instructions:
 Open index.html in a web browser.
 ### Deliverables:
